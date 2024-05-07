@@ -3,25 +3,25 @@ OKAMIpack is a Minecraft resourcepack made for fun (mostly orange and blue) text
 OKAMIpack changes a variety of assets ranging from the GUI to items. The pack changes the textures which can be broken down to:
 
 ## Utilities
-Elytra
-Bow & Crossbow (including arrows)
-Golden Apple
+Elytra,
+Bow & Crossbow (including arrows),
+Golden Apple,
 Totem
 
 ## Blocks
-New Beacon model
+New Beacon model,
 Rewamped Diamond and Netherite blocks
 
 ## Armour & Tool Sets
-All Diamond tools and armour
+All Diamond tools and armour,
 All Netherite tools and armour
 
 ## GUI
-Dark theme Inventory
+Dark theme Inventory,
 Hotbar with orange hearts, pizza and an orange XP bar
 
 ## Mobs
-River otter (cyan axolotl)
+River otter (cyan axolotl),
 Okami (snow fox)
 
 
